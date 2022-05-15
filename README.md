@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coreyj24
 - 👀 I’m interested in games
-- 🌱 I’m currently learning to coding
+- 🌱 I’m currently learning to code
 
 <!---
 coreyj24/coreyj24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
